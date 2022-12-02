@@ -11,7 +11,7 @@
   "author": "Markus Ziller",
   "license": "MIT-0",
   "devDependencies": {
-    "@aws-cdk/assert": "1.67.0",
+    "@aws-cdk/assert": "1.180.0",
     "@types/jest": "^26.0.10",
     "@types/node": "10.17.27",
     "aws-cdk": "^1.67.0",
@@ -22,15 +22,15 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "@aws-cdk/core": "1.67.0",
-    "@aws-cdk/aws-iam": "1.67.0",
-    "@aws-cdk/aws-sns": "1.67.0",
-    "@aws-cdk/aws-lambda": "1.67.0",
-    "@aws-cdk/aws-sns-subscriptions": "1.67.0",
-    "@aws-cdk/aws-events": "1.67.0",
-    "@aws-cdk/aws-events-targets": "1.67.0",
-    "@aws-cdk/aws-codecommit": "1.67.0",
-    "@aws-cdk/aws-secretsmanager": "1.67.0",
+    "@aws-cdk/core": "1.180.0",
+    "@aws-cdk/aws-iam": "1.180.0",
+    "@aws-cdk/aws-sns": "1.180.0",
+    "@aws-cdk/aws-lambda": "1.180.0",
+    "@aws-cdk/aws-sns-subscriptions": "1.180.0",
+    "@aws-cdk/aws-events": "1.180.0",
+    "@aws-cdk/aws-events-targets": "1.180.0",
+    "@aws-cdk/aws-codecommit": "1.180.0",
+    "@aws-cdk/aws-secretsmanager": "1.180.0",
     "source-map-support": "^0.5.16"
   }
 }
